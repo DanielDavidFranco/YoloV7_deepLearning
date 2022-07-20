@@ -4,7 +4,7 @@ Implementation of paper - [YOLOv7: Trainable bag-of-freebies sets new state-of-t
 
 <div align="center">
     <a href="./">
-        <img src="./figure/performance.png" width="79%"/>
+        <img src="./performance/performance.png" width="79%"/>
     </a>
 </div>
 
@@ -152,10 +152,10 @@ Yolov7-mask & YOLOv7-pose
 
 <div align="center">
     <a href="./">
-        <img src="./figure/mask.jpg" width="56%"/>
+        <img src="./examples/mask.jpg" width="56%"/>
     </a>
     <a href="./">
-        <img src="./figure/pose.png" width="42%"/>
+        <img src="./examples/pose.png" width="42%"/>
     </a>
 </div>
 
