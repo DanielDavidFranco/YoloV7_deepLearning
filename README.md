@@ -152,7 +152,7 @@ Yolov7-mask & YOLOv7-pose
 
 <div align="center">
     <a href="./">
-        <img src="./figure/mask.png" width="56%"/>
+        <img src="./figure/mask.jpg" width="56%"/>
     </a>
     <a href="./">
         <img src="./figure/pose.png" width="42%"/>
