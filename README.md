@@ -1,3 +1,8 @@
+The original repository is not mine. It is contained in:
+https://github.com/WongKinYiu/yolov7
+And it belongs to: Kin-Yiu, Wong ( https://github.com/WongKinYiu )
+I thereby abide by the terms of his license which I include.
+
 # Official YOLOv7
 
 Implementation of paper - [YOLOv7: Trainable bag-of-freebies sets new state-of-the-art for real-time object detectors](https://arxiv.org/abs/2207.02696)
