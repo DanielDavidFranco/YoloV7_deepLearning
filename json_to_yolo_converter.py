@@ -2,7 +2,7 @@ import json
 import os
 import pprint
 
-path ='json'
+path ='json_'
 file_paths = []
 file_names = []
 for root, directories, file in os.walk(path):
@@ -61,7 +61,7 @@ for j, file in enumerate(file_paths):
     #print(len(lines))
     pprint.pprint(lines)
     
-    with open("yolo_format/"+file_names[j].replace(".json","")+".txt", "w") as txt_file:
+    with open("yolo_format_/"+file_names[j].replace(".json","")+".txt", "w") as txt_file:
         for row in lines:
             txt_file.write('%s\n' % row)
         txt_file.close()
